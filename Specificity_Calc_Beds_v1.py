@@ -49,6 +49,7 @@ directory, or you will crash this script.
 ##############
 DEPENDENCIES:
 numpy - Numerical Python
+samtools - needs to be in path to call from command line
 ##############
 ------------------------
 written for Python 2.7.3
