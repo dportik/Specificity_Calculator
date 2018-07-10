@@ -89,17 +89,25 @@ numpy - Numerical Python
 samtools - needs to be in path to call from command line
 
 ------------------------
-------------------------
-
-Dan Portik
-
-daniel.portik@berkeley.edu --> daniel.portik@uta.edu
-
-October 2015
 
 
 
-If you use these scripts, please cite:
+**Citation Information:**
 
-Portik, D.M., Smith, L.L., and K. Bi. 2016. An evaluation of transcriptome-based exon capture for frog phylogenomics across multiple scales of divergence (Class: Amphibia, Order: Anura). Molecular Ecology Resources 16: 1069–1083.
+These scripts were published as part of the following work:
+
++ *Portik, D.M., Smith, L.L., and K. Bi. 2016. An evaluation of transcriptome-based exon capture for frog phylogenomics across multiple scales of divergence (Class: Amphibia, Order: Anura). Molecular Ecology Resources 16: 1069–1083. https://doi.org/10.1111/1755-0998.12541*
+
+If you use or modify these scripts for your own purposes, please cite our publication.
+
+
+**Contact:**
+
+Daniel Portik, PhD
+
+Postdoctoral Researcher
+
+University of Arizona
+
+daniel.portik@gmail.com
 
